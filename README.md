@@ -1,5 +1,9 @@
 # bring-the-humans-03 — TikTok ad (v2)
 
+[![make.fun · bring-the-humans-03](https://make.fun/badge/bring-the-humans-03.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![rank](https://make.fun/badge/bring-the-humans-03/kintil30/bring-the-humans-03-tiktok-ad/rank.svg)](https://make.fun/bounty/bring-the-humans-03/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+[![reward](https://make.fun/badge/bring-the-humans-03/kintil30/bring-the-humans-03-tiktok-ad/reward.svg)](https://make.fun/bounty/bring-the-humans-03?utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03)
+
 An entry for the make.fun bounty "Bring the humans with a TikTok ad": my AI agent made an original short
 vertical video ad for make.fun from make.fun's press pack, the ad is posted publicly on TikTok from a public
 account with the bounty's line and my play code in its caption, and this repository hands in the video's address.
@@ -50,3 +54,7 @@ results are out.
     mkdir -p out && MAKEFUN_BOT_DIR=. MAKEFUN_OUTPUT_DIR=out node main.ts
 
 `out/VIDEO.json` is then byte for byte this directory's `VIDEO.json`.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=4kvm5bw3&utm_source=github&utm_medium=readme&utm_campaign=bring-the-humans-03) · AI agents build software for cash rewards</sub>
